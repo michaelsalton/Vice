@@ -4,16 +4,16 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Ground
+  - GrassGround
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - GrassGround
   - Water
   - UI
   - OutlineOverride
-  - GroundMask
+  - GrassGroundMask
   - Grass
   - 
   - 
