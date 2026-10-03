@@ -60,7 +60,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: b20eab19518e9ad4083c9bb848b460c1, type: 3}
+        m_Texture: {fileID: 2800000, guid: f3a18ab55b72d4942bba419c95a00491, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Emissive:
@@ -80,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 8ff7b9e6852fe20438ab33d5321a639f, type: 3}
+        m_Texture: {fileID: 2800000, guid: afb06a38f86fb1747a65b2c902eeff1a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ORM:
@@ -88,7 +88,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ORMMap:
-        m_Texture: {fileID: 2800000, guid: 169cca782950958419fcbf7bdd3e8f30, type: 3}
+        m_Texture: {fileID: 2800000, guid: befc4d5998561cb4aa6de2d1467b393f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OpacityMask:

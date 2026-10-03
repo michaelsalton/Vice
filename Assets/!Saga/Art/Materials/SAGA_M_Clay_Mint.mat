@@ -31,7 +31,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 7cd8de016476d1741ba26131c9474dc3, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailNormal:
@@ -103,7 +103,7 @@ Material:
     - _AlphaToMaskInspectorValue: 0
     - _BandShadow: 1
     - _BandSoftness: 1
-    - _Bands: 2
+    - _Bands: 8
     - _Blend: 0
     - _BlendMode: 0
     - _BlendModePreserveSpecular: 0
@@ -133,8 +133,8 @@ Material:
     - _MaskDirt: 0
     - _Metallic: 1
     - _MetresPerTile: 1
-    - _NdlWrap: 1
-    - _NormalScale: 2
+    - _NdlWrap: 0
+    - _NormalScale: 0.5
     - _OcclusionStrength: 1
     - _OpaqueCullMode: 2
     - _PowerHeight: 1
@@ -152,7 +152,7 @@ Material:
     - _ReliefSteps: 12
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _Roughness: 3
+    - _Roughness: 1
     - _Saturation: 1
     - _SpecCutoffRough: 0
     - _SpecCutoffSmooth: 0.98
@@ -194,7 +194,7 @@ Material:
     - _ZWrite: 1
     - _ZWriteControl: 0
     m_Colors:
-    - _BaseColor: {r: 0.252047, g: 0.9056604, b: 0.79340386, a: 1}
+    - _BaseColor: {r: 0.7208526, g: 0.9150943, b: 0.88136375, a: 1}
     - _BaseColor_Value: {r: 1, g: 1, b: 1, a: 1}
     - _DirtColor: {r: 0.62352943, g: 0.70980394, b: 0.77647066, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}

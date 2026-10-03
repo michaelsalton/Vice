@@ -137,7 +137,7 @@ Material:
     - _DoubleSidedNormalMode: 2
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EmissiveIntensity: 8
+    - _EmissiveIntensity: 3
     - _Emissive_Power: 20
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1

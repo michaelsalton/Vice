@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81254844a88c32b40a9146f4b083b6d5, type: 3}
   m_Name: PixelCameraConfig
   m_EditorClassIdentifier: Assembly-CSharp::Saga.Rendering.PixelCameraConfig
-  internalWidth: 480
-  internalHeight: 270
+  internalWidth: 1920
+  internalHeight: 1080
   letterboxColor: {r: 0, g: 0, b: 0, a: 1}
