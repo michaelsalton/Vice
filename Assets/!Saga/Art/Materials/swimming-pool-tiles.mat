@@ -57,11 +57,11 @@ Material:
     - _NdlWrap: 1
     - _NormalScale: 1
     - _OcclusionStrength: 1
-    - _Relief: 0
-    - _ReliefDepth: 0.06
-    - _ReliefMax: 1
-    - _ReliefMin: 0
-    - _ReliefSteps: 12
+    - _POM: 0
+    - _POMDepth: 0.06
+    - _POMMax: 1
+    - _POMMin: 0
+    - _POMSteps: 12
     - _Roughness: 0.5
     - _SpecCutoffRough: 0
     - _SpecCutoffSmooth: 0.98

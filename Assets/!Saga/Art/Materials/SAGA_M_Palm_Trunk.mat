@@ -131,11 +131,11 @@ Material:
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
-    - _Relief: 0
-    - _ReliefDepth: 0.06
-    - _ReliefMax: 1
-    - _ReliefMin: 0
-    - _ReliefSteps: 12
+    - _POM: 0
+    - _POMDepth: 0.06
+    - _POMMax: 1
+    - _POMMin: 0
+    - _POMSteps: 12
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
     - _Roughness: 3

@@ -12,7 +12,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
-  - _RELIEF
+  - _POM_ON
   - _WORLD_UV
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -141,11 +141,11 @@ Material:
     - _RampRow: 2
     - _RampRows: 8
     - _ReceiveShadows: 1
-    - _Relief: 1
-    - _ReliefDepth: 0.3
-    - _ReliefMax: 1
-    - _ReliefMin: 0
-    - _ReliefSteps: 32
+    - _POM: 1
+    - _POMDepth: 0.3
+    - _POMMax: 1
+    - _POMMin: 0
+    - _POMSteps: 32
     - _Roughness: 0
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0

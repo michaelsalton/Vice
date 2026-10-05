@@ -146,11 +146,11 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Relief: 0
-    - _ReliefDepth: 0.3
-    - _ReliefMax: 0.7
-    - _ReliefMin: 0.178
-    - _ReliefSteps: 32
+    - _POM: 0
+    - _POMDepth: 0.3
+    - _POMMax: 0.7
+    - _POMMin: 0.178
+    - _POMSteps: 32
     - _Roughness: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
