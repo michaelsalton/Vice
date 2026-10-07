@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Saltbox Interactive
-  productName: Saga
+  productName: Vice
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -849,14 +849,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Saga
+  metroPackageName: Vice
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Saga
+  metroApplicationDescription: Vice
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -931,7 +931,7 @@ PlayerSettings:
   cloudProjectId: 001c1d5a-a219-49a9-b13c-429ad6fb3471
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Saga
+  projectName: Vice
   organizationId: msalton6
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
