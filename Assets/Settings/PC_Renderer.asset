@@ -1,5 +1,20 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9130806419341767116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67193ddac6317e7438fcd5ec2c9ed413, type: 3}
+  m_Name: QuantizeRenderFeature
+  m_EditorClassIdentifier: Saga.Rendering::Saga.Rendering.QuantizeRenderFeature
+  m_Active: 1
+  quantizeShader: {fileID: 4800000, guid: 253fef2122d8d3d47a886eaaede9cad1, type: 3}
+  injectionPoint: 600
 --- !u!114 &-4088876540770295430
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71,7 +86,8 @@ MonoBehaviour:
   - {fileID: 7491871100833207956}
   - {fileID: 7861510998709246806}
   - {fileID: -127190023105050730}
-  m_RendererFeatureMap: dd43a1d48617010e7a61f530736441c794962d941279f867561be4eb99b2196d9687d90d59213cfe
+  - {fileID: -9130806419341767116}
+  m_RendererFeatureMap: dd43a1d48617010e7a61f530736441c794962d941279f867561be4eb99b2196d9687d90d59213cfe340e474ef0db4881
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: e3d11242d042d5f41bc7cb2cca69a025, type: 2}
