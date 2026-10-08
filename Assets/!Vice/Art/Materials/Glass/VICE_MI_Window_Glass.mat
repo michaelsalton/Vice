@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: VICE_MI_Asphalt
+  m_Name: VICE_MI_Window_Glass
   m_Shader: {fileID: 4800000, guid: 9359b2a2bcd488b458611feca438022e, type: 3}
-  m_Parent: {fileID: 2100000, guid: 02ed1706ce238d244b1d4fd7aac421b8, type: 2}
+  m_Parent: {fileID: 2100000, guid: 95782c4e1bc586744963f07dfca630e1, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _DETAIL
@@ -20,16 +20,13 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap:
     RenderType: Opaque
-  disabledShaderPasses:
-  - SHADOWCASTER
+  disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - _Metallic: 1
-    - _Roughness: 1
+    m_Floats: []
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1

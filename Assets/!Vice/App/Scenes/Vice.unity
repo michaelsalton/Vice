@@ -15014,14 +15014,6 @@ MonoBehaviour:
   stepSoftness: 0.975
   windAngle: 45
   windSpeed: 0.2
-  godrayIntensity: 0.45
-  godrayDensity: 0.15
-  mistFloor: 0
-  mistThickness: 18
-  mistFadeTop: 4
-  godrayShadowStrength: 1
-  godraySteps: 32
-  godrayMaxSpan: 60
   animateInEditor: 1
 --- !u!1001 &253765219
 PrefabInstance:
@@ -129177,6 +129169,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 7539848145632994793, guid: b23183310c9145746960415ead7cb7b9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d1c27741cfdc324d9da74fed3959663, type: 2}
     - target: {fileID: 7595689534695196045, guid: b23183310c9145746960415ead7cb7b9, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647

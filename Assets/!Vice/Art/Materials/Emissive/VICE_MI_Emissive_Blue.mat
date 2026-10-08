@@ -10,15 +10,16 @@ Material:
   m_Name: VICE_MI_Emissive_Blue
   m_Shader: {fileID: 4800000, guid: 9359b2a2bcd488b458611feca438022e, type: 3}
   m_Parent: {fileID: 2100000, guid: 2ffe2c9292f6ba944bfd704f3bb9eac7, type: 2}
-  m_ModifiedSerializedProperties: 0
+  m_ModifiedSerializedProperties: 16
   m_ValidKeywords:
   - _EMISSION
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
   disabledShaderPasses: []
   m_LockedProperties: 
   m_SavedProperties:
