@@ -49,6 +49,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
+      propertyPath: m_ReceiveGI
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 39295499d72335447bc0c624b82da47c, type: 2}
@@ -59,11 +63,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: e209ca46bcd170f4e88002d284cd86cf, type: 2}
+      objectReference: {fileID: 2100000, guid: 469cb14af55ba9d48a68f9bb694ade1b, type: 2}
     - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
-      objectReference: {fileID: 2100000, guid: cffcf8f2a26053d409a01eb233ad85a9, type: 2}
+      objectReference: {fileID: 2100000, guid: 469cb14af55ba9d48a68f9bb694ade1b, type: 2}
     - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: 'm_Materials.Array.data[4]'
       value: 
@@ -75,18 +79,22 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: 'm_Materials.Array.data[6]'
       value: 
-      objectReference: {fileID: 2100000, guid: 3bde07cb38873104aa6a26151f74ad45, type: 2}
+      objectReference: {fileID: 2100000, guid: 469cb14af55ba9d48a68f9bb694ade1b, type: 2}
     - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: 'm_Materials.Array.data[7]'
       value: 
-      objectReference: {fileID: 2100000, guid: 16a76a4c79dde584fad307194345a0fb, type: 2}
+      objectReference: {fileID: 2100000, guid: 469cb14af55ba9d48a68f9bb694ade1b, type: 2}
     - target: {fileID: -7511558181221131132, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: 'm_Materials.Array.data[8]'
       value: 
-      objectReference: {fileID: 2100000, guid: a0d9519163faee1409d11b8aedba7c76, type: 2}
+      objectReference: {fileID: 2100000, guid: 469cb14af55ba9d48a68f9bb694ade1b, type: 2}
     - target: {fileID: 919132149155446097, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Entrance
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7d714fe0714c6424c8f860a7e360243b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

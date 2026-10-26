@@ -49,6 +49,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 78362104d89cb8f449389506b74a92e8, type: 3}
+      propertyPath: m_ReceiveGI
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 78362104d89cb8f449389506b74a92e8, type: 3}
       propertyPath: m_ForceMeshLod
       value: 0
       objectReference: {fileID: 0}
@@ -59,11 +63,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 78362104d89cb8f449389506b74a92e8, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: a0d9519163faee1409d11b8aedba7c76, type: 2}
+      objectReference: {fileID: 2100000, guid: 469cb14af55ba9d48a68f9bb694ade1b, type: 2}
     - target: {fileID: -7511558181221131132, guid: 78362104d89cb8f449389506b74a92e8, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: 7a4d64089ed6f6944ba74f6b25c69679, type: 2}
+      objectReference: {fileID: 2100000, guid: 7945df93a74c575408f8bb558dc4ace8, type: 2}
     - target: {fileID: -7511558181221131132, guid: 78362104d89cb8f449389506b74a92e8, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
@@ -71,6 +75,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 78362104d89cb8f449389506b74a92e8, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 78362104d89cb8f449389506b74a92e8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

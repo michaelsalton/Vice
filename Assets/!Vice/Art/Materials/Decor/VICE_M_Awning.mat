@@ -29,8 +29,9 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
+  m_CustomRenderQueue: 2000
+  stringTagMap:
+    RenderType: Opaque
   disabledShaderPasses:
   - MOTIONVECTORS
   m_LockedProperties: 
@@ -121,6 +122,7 @@ Material:
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
+    - _CastShadows: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -129,6 +131,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
+    - _Emission: 0
     - _EmissiveIntensity: 0
     - _EnvironmentReflections: 1
     - _GIBands: 0
@@ -141,14 +144,14 @@ Material:
     - _NdlWrap: 1
     - _NormalScale: 2
     - _OcclusionStrength: 1
-    - _Parallax: 0.005
-    - _QueueOffset: 0
-    - _ReceiveShadows: 1
     - _POM: 0
     - _POMDepth: 0.06
     - _POMMax: 1
     - _POMMin: 0
     - _POMSteps: 12
+    - _Parallax: 0.005
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
     - _Roughness: 0.224
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0

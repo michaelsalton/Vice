@@ -49,12 +49,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 89a8f0d8c9f7666429a0cc03435d1958, type: 3}
+      propertyPath: m_ReceiveGI
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 89a8f0d8c9f7666429a0cc03435d1958, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 71441ba455d1e9d43ada0b2f973602b1, type: 2}
+      objectReference: {fileID: 2100000, guid: 469cb14af55ba9d48a68f9bb694ade1b, type: 2}
     - target: {fileID: 919132149155446097, guid: 89a8f0d8c9f7666429a0cc03435d1958, type: 3}
       propertyPath: m_Name
-      value: VICE_Building_01_Wall_Upper
+      value: VICE_Building_01_Wall_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 89a8f0d8c9f7666429a0cc03435d1958, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

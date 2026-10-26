@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &782019506738990400
 Transform:
@@ -49,7 +49,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5713777513112644952
 Transform:
@@ -84,7 +84,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1309525731121202402
 Transform:
@@ -120,7 +120,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1304194561473440357
 Transform:
@@ -155,7 +155,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7462281919062374677
 Transform:
@@ -188,7 +188,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2823189461146072463
 Transform:
@@ -226,7 +226,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1910134896011005377
 Transform:
@@ -264,7 +264,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &158696653124653985
 Transform:
@@ -299,7 +299,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7692602533040041377
 Transform:
@@ -333,7 +333,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5331122213641641355
 Transform:
@@ -368,7 +368,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1355595158940866111
 Transform:
@@ -403,7 +403,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4121542607401839798
 Transform:
@@ -443,7 +443,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2084584959230703343
 Transform:
@@ -553,7 +553,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7466966964115545495
 Transform:
@@ -589,7 +589,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2202172381739714569
 Transform:
@@ -625,7 +625,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3183774493636443477
 Transform:
@@ -661,7 +661,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7447663831879239730
 Transform:
@@ -699,7 +699,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2587233297233478577
 Transform:
@@ -731,7 +731,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8417825481056233219
 Transform:
@@ -769,7 +769,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6525640805962470976
 Transform:
@@ -806,7 +806,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3302429655745511043
 Transform:
@@ -841,7 +841,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7632680348865833747
 Transform:
@@ -877,7 +877,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8852396482663672878
 Transform:
@@ -912,7 +912,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3685709331464499775
 Transform:
@@ -949,7 +949,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8536099877398066629
 Transform:
@@ -984,7 +984,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8491173421431597948
 Transform:
@@ -1019,7 +1019,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4582077937429816740
 Transform:
@@ -1056,7 +1056,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2314617760693004728
 Transform:
@@ -1094,7 +1094,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2546702549814008944
 Transform:
@@ -1126,7 +1126,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1211694168645363274
 Transform:
@@ -1160,7 +1160,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1364540042534573284
 Transform:
@@ -1196,7 +1196,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4300779928131365908
 Transform:
@@ -1230,7 +1230,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2020803790401589958
 Transform:
@@ -1265,7 +1265,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6025110378568539947
 Transform:
@@ -1300,7 +1300,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3830368205020210008
 Transform:
@@ -1380,6 +1380,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1401,6 +1405,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1463,6 +1471,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
@@ -1574,6 +1586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1640,6 +1656,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1661,6 +1681,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1764,6 +1788,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1830,6 +1858,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1892,6 +1924,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1913,6 +1949,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.x
@@ -2024,6 +2064,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2085,6 +2129,10 @@ PrefabInstance:
     - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2156,6 +2204,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2218,6 +2270,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2239,6 +2295,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -2309,6 +2369,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2420,6 +2484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2481,6 +2549,10 @@ PrefabInstance:
     - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2548,6 +2620,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2613,6 +2689,10 @@ PrefabInstance:
     - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2684,6 +2764,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02
       objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2705,6 +2789,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -2816,6 +2904,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2837,6 +2929,10 @@ PrefabInstance:
     - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_06
+      objectReference: {fileID: 0}
+    - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1831186616953902317, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2948,6 +3044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2973,6 +3073,10 @@ PrefabInstance:
     - target: {fileID: 4026200144948413848, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026200144948413848, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4365183343905906466, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
       propertyPath: m_LocalScale.x
@@ -3088,6 +3192,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3158,6 +3266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_03
       objectReference: {fileID: 0}
+    - target: {fileID: 5574481865095574183, guid: cc87609089075cc4b8692afd821dc59c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3179,6 +3291,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -3245,6 +3361,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3352,6 +3472,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3413,6 +3537,10 @@ PrefabInstance:
     - target: {fileID: 9216653836305246547, guid: 8815d0f4bb6f8994da61c0cda77b98d1, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Door
+      objectReference: {fileID: 0}
+    - target: {fileID: 9216653836305246547, guid: 8815d0f4bb6f8994da61c0cda77b98d1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3479,6 +3607,10 @@ PrefabInstance:
     - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3550,6 +3682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02
       objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3571,6 +3707,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -3686,6 +3826,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3707,6 +3851,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -3777,6 +3925,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3884,6 +4036,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3946,6 +4102,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3967,6 +4127,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
@@ -4078,6 +4242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4099,6 +4267,10 @@ PrefabInstance:
     - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_06
+      objectReference: {fileID: 0}
+    - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1831186616953902317, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_LocalScale.z
@@ -4218,6 +4390,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SAGGA_Satellite
       objectReference: {fileID: 0}
+    - target: {fileID: 8679096894509465829, guid: 967bc64c1ebb964479e9e7e4132a7e4c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4239,6 +4415,10 @@ PrefabInstance:
     - target: {fileID: 2506772276249192099, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2506772276249192099, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2990962680439847961, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
       propertyPath: m_LocalScale.x
@@ -4354,6 +4534,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4424,6 +4608,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_03
       objectReference: {fileID: 0}
+    - target: {fileID: 5574481865095574183, guid: cc87609089075cc4b8692afd821dc59c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4445,6 +4633,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4507,6 +4699,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4610,6 +4806,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4680,6 +4880,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02
       objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4701,6 +4905,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -4812,6 +5020,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_04
       objectReference: {fileID: 0}
+    - target: {fileID: 6788954324981594779, guid: d1c561d3b8e25ba4da47569ff72c5177, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4833,6 +5045,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -4904,6 +5120,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
       objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
       value: -1
@@ -4969,6 +5189,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalScale.x
@@ -5040,6 +5264,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
       objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.09269905
@@ -5102,6 +5330,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_01
       objectReference: {fileID: 0}
+    - target: {fileID: 2506772276249192099, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2990962680439847961, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.002672
@@ -5163,6 +5395,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -5282,6 +5518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Spire_02
       objectReference: {fileID: 0}
+    - target: {fileID: 6463276360555790565, guid: cea067656968c3343a375a3aa8ab29a3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5303,6 +5543,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
@@ -5366,6 +5610,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7462281919062374677}
     m_Modifications:
+    - target: {fileID: 12351919394113593, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1335799532006444806, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.61
@@ -5406,9 +5654,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2591657194597142012, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3691884651393897357, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4661141626187088181, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
       propertyPath: m_Name
       value: VICE_HVAC_Roof_Unit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4661141626187088181, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5063610666350112455, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5786658992454252081, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7366445741179044296, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8178593968425804740, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8445230925596907202, guid: 302a4449c6762fb4b892516f7ad4f612, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5472,6 +5752,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5493,6 +5777,10 @@ PrefabInstance:
     - target: {fileID: 2695573668530973259, guid: d42de3a975e57a441ad392175595bd17, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695573668530973259, guid: d42de3a975e57a441ad392175595bd17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3324581578681561329, guid: d42de3a975e57a441ad392175595bd17, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5555,6 +5843,10 @@ PrefabInstance:
     - target: {fileID: 325980531510300258, guid: 338286f4ad738bd43a90d4fab6b69a2d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Spire_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 325980531510300258, guid: 338286f4ad738bd43a90d4fab6b69a2d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1138791940036039896, guid: 338286f4ad738bd43a90d4fab6b69a2d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5662,6 +5954,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5728,6 +6024,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5749,6 +6049,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5852,6 +6156,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5913,6 +6221,10 @@ PrefabInstance:
     - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5976,6 +6288,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5997,6 +6313,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6059,6 +6379,10 @@ PrefabInstance:
     - target: {fileID: 2506772276249192099, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2506772276249192099, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2990962680439847961, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
       propertyPath: m_LocalScale.x
@@ -6174,6 +6498,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6195,6 +6523,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
@@ -6262,6 +6594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_01
       objectReference: {fileID: 0}
+    - target: {fileID: 2506772276249192099, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2990962680439847961, guid: 1e097485e118de140a9185b7625cf5df, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.0027093887
@@ -6323,6 +6659,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -6434,6 +6774,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6455,6 +6799,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -6526,6 +6874,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4026200144948413848, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4365183343905906466, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
       propertyPath: m_LocalScale.x
       value: -1
@@ -6595,6 +6947,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6706,6 +7062,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6727,6 +7087,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6834,6 +7198,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6859,6 +7227,10 @@ PrefabInstance:
     - target: {fileID: 4026200144948413848, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4026200144948413848, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4365183343905906466, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
       propertyPath: m_LocalScale.x
@@ -6930,6 +7302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_02
       objectReference: {fileID: 0}
+    - target: {fileID: 2695573668530973259, guid: d42de3a975e57a441ad392175595bd17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3324581578681561329, guid: d42de3a975e57a441ad392175595bd17, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -6991,6 +7367,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.x
@@ -7106,6 +7486,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_03
       objectReference: {fileID: 0}
+    - target: {fileID: 5574481865095574183, guid: cc87609089075cc4b8692afd821dc59c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7127,6 +7511,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalScale.x
@@ -7198,6 +7586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
       value: -1.25
@@ -7267,6 +7659,10 @@ PrefabInstance:
     - target: {fileID: 2695573668530973259, guid: d42de3a975e57a441ad392175595bd17, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695573668530973259, guid: d42de3a975e57a441ad392175595bd17, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 3324581578681561329, guid: d42de3a975e57a441ad392175595bd17, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7378,6 +7774,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7399,6 +7799,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalScale.x
@@ -7470,6 +7874,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.002708435
@@ -7531,6 +7939,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -7597,6 +8009,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalScale.x
@@ -7668,6 +8084,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4026200144948413848, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4365183343905906466, guid: 422cb2e065e6d80498c49b3a65f20bcc, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -7737,6 +8157,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -7860,6 +8284,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Spire_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6463276360555790565, guid: cea067656968c3343a375a3aa8ab29a3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7881,6 +8309,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7943,6 +8375,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
@@ -8058,6 +8494,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02
       objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8079,6 +8519,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalScale.x
@@ -8150,6 +8594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Entrance
       objectReference: {fileID: 0}
+    - target: {fileID: 456251060294106788, guid: df1b966d89c0f084f984f95ffcb68802, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 945541794333582366, guid: df1b966d89c0f084f984f95ffcb68802, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -8211,6 +8659,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalScale.x
@@ -8282,6 +8734,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
       value: -1
@@ -8347,6 +8803,10 @@ PrefabInstance:
     - target: {fileID: 325980531510300258, guid: 338286f4ad738bd43a90d4fab6b69a2d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Spire_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 325980531510300258, guid: 338286f4ad738bd43a90d4fab6b69a2d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1138791940036039896, guid: 338286f4ad738bd43a90d4fab6b69a2d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8458,6 +8918,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Corner_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5574481865095574183, guid: cc87609089075cc4b8692afd821dc59c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8524,6 +8988,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8586,6 +9054,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8607,6 +9079,10 @@ PrefabInstance:
     - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_06
+      objectReference: {fileID: 0}
+    - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1831186616953902317, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8669,6 +9145,10 @@ PrefabInstance:
     - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_06
+      objectReference: {fileID: 0}
+    - target: {fileID: 1306745561655594583, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 1831186616953902317, guid: 9cd83c1776422494b824564356a2b6d2, type: 3}
       propertyPath: m_LocalScale.z
@@ -8784,6 +9264,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8805,6 +9289,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z
@@ -8871,6 +9359,10 @@ PrefabInstance:
     - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_03 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889261841793410180, guid: a67a376127b313345b78513c880e485d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4517884093410819646, guid: a67a376127b313345b78513c880e485d, type: 3}
       propertyPath: m_LocalScale.x
@@ -8941,6 +9433,10 @@ PrefabInstance:
     - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Wall_05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8491124809756301201, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9123547008273452331, guid: 7678de59a4e68644caa08a186d1f35be, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9052,6 +9548,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9114,6 +9614,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9175,6 +9679,10 @@ PrefabInstance:
     - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Corner_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 3352903365302749426, guid: 7bcc9367873543e469a4d8ed7c1deb22, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9246,6 +9754,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Wall_02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8069416883697758977, guid: 7efc393df2b688f4ea72339656e40f86, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9267,6 +9779,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.x
@@ -9378,6 +9894,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6676895821030524288, guid: fac6e8a7d604e9f49a825fd6213834f8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9399,6 +9919,10 @@ PrefabInstance:
     - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_Name
       value: VICE_Building_01_Canopy_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6952578216452114998, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7725737838608584844, guid: a314a9a0f0f45724a801162dc72bad29, type: 3}
       propertyPath: m_LocalScale.z

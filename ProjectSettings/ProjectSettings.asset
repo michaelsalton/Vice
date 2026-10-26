@@ -928,10 +928,10 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 001c1d5a-a219-49a9-b13c-429ad6fb3471
+  cloudProjectId: 4026627f-427f-4b87-b643-b8d5e3f50f62
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Saga
+  projectName: Vice
   organizationId: msalton6
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
