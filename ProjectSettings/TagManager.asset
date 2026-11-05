@@ -15,8 +15,8 @@ TagManager:
   - OutlineOverride
   - GrassGroundMask
   - Grass
-  - 
-  - 
+  - Interactable
+  - Player
   - 
   - 
   - 

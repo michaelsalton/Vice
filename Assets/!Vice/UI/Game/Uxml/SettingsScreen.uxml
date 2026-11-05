@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:vice="Vice.UI">
+    <vice:MenuPanel title="Settings">
+        <vice:MenuButton name="display" text="Display" class="default-focus" />
+        <vice:MenuButton name="graphics" text="Graphics" />
+        <vice:MenuButton name="controls" text="Controls" />
+        <vice:MenuButton name="audio" text="Audio" />
+    </vice:MenuPanel>
+</ui:UXML>

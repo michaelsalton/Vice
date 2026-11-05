@@ -1,0 +1,24 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:vice="Vice.UI">
+    <vice:MenuPanel title="Graphics">
+        <vice:SettingsStepper label="Texture Quality" options="Low,Medium,High,Ultra" class="default-focus">
+            <Bindings>
+                <ui:DataBinding property="value" data-source-path="TextureQuality" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsStepper>
+        <vice:SettingsStepper label="Shadow Quality" options="Low,Medium,High,Ultra">
+            <Bindings>
+                <ui:DataBinding property="value" data-source-path="ShadowQuality" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsStepper>
+        <vice:SettingsToggle label="Ambient Occlusion">
+            <Bindings>
+                <ui:DataBinding property="value" data-source-path="AmbientOcclusion" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsToggle>
+        <vice:SettingsSlider label="Field of View" low-value="40" high-value="110" step="1" format="0">
+            <Bindings>
+                <ui:DataBinding property="value" data-source-path="FieldOfView" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsSlider>
+    </vice:MenuPanel>
+</ui:UXML>

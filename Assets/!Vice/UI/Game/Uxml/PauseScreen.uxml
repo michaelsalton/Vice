@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:vice="Vice.UI">
+    <vice:MenuPanel title="Paused">
+        <vice:MenuButton name="resume" text="Resume" class="default-focus" />
+        <vice:MenuButton name="save" text="Save" />
+        <vice:MenuButton name="settings" text="Settings" />
+        <vice:MenuButton name="quit" text="Quit to Menu" />
+    </vice:MenuPanel>
+</ui:UXML>

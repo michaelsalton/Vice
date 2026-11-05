@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:vice="Vice.UI">
+    <vice:MenuPanel title="Vice">
+        <vice:MenuButton name="continue" text="Continue" />
+        <vice:MenuButton name="new-game" text="New Game" />
+        <vice:MenuButton name="settings" text="Settings" />
+        <vice:MenuButton name="quit" text="Quit" />
+    </vice:MenuPanel>
+</ui:UXML>

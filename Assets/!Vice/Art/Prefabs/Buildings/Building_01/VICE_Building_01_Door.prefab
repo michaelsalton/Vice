@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9085360023711390517
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1657179218254027202}
+  m_Layer: 0
+  m_Name: Teleport_Location
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1657179218254027202
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9085360023711390517}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: 0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8404826834013221865}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &8298242974429090818
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -53,6 +84,10 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+      propertyPath: m_ForceMeshLod
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
       propertyPath: m_MeshLodSelectionBias
       value: -6
       objectReference: {fileID: 0}
@@ -69,11 +104,69 @@ PrefabInstance:
       value: VICE_Building_01_Door
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1657179218254027202}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4229785834741205609}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6301793113262547439}
   m_SourcePrefab: {fileID: 100100000, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+--- !u!4 &8404826834013221865 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+  m_PrefabInstance: {fileID: 8298242974429090818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9216653836305246547 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f168c04d2b9c2984c9c60e579e4675a8, type: 3}
+  m_PrefabInstance: {fileID: 8298242974429090818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4229785834741205609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9216653836305246547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914d1b137f21fca459a7852f7666d2b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Vice.Door
+  destination: {fileID: 1657179218254027202}
+  prompt: Enter
+--- !u!65 &6301793113262547439
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9216653836305246547}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.4355516, y: 2.4, z: 0.32372573}
+  m_Center: {x: 0.0000024437904, y: 1.1980951, z: -0.000000059604645}

@@ -1,0 +1,37 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:vice="Vice.UI">
+    <vice:MenuPanel title="Display">
+        <vice:SettingsDropdown label="Window Mode" class="default-focus">
+            <Bindings>
+                <ui:DataBinding property="Choices" data-source-path="WindowModeChoices" binding-mode="ToTarget" />
+                <ui:DataBinding property="value" data-source-path="WindowModeIndex" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsDropdown>
+        <vice:SettingsDropdown label="Resolution">
+            <Bindings>
+                <ui:DataBinding property="Choices" data-source-path="ResolutionChoices" binding-mode="ToTarget" />
+                <ui:DataBinding property="value" data-source-path="ResolutionIndex" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsDropdown>
+        <vice:SettingsToggle label="VSync">
+            <Bindings>
+                <ui:DataBinding property="value" data-source-path="VerticalSync" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsToggle>
+        <vice:SettingsDropdown label="Max Frame Rate">
+            <Bindings>
+                <ui:DataBinding property="Choices" data-source-path="FrameRateChoices" binding-mode="ToTarget" />
+                <ui:DataBinding property="value" data-source-path="FrameRateIndex" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsDropdown>
+        <vice:SettingsSlider label="Brightness" low-value="-1" high-value="1" step="0.1" format="+0.0;-0.0;0">
+            <Bindings>
+                <ui:DataBinding property="value" data-source-path="Brightness" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsSlider>
+        <vice:SettingsSlider label="UI Scale" low-value="0.75" high-value="1.5" step="0.05" format="0%">
+            <Bindings>
+                <ui:DataBinding property="value" data-source-path="UiScale" binding-mode="TwoWay" />
+            </Bindings>
+        </vice:SettingsSlider>
+    </vice:MenuPanel>
+</ui:UXML>

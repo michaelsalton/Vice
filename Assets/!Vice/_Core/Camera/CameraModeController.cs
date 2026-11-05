@@ -10,6 +10,8 @@ namespace Vice
     {
         Fly,
         Isometric,
+        // appended, not inserted: the enum serializes as an int and scenes store defaultMode by value
+        FirstPerson,
     }
 
     /// <summary>
@@ -33,6 +35,8 @@ namespace Vice
                  "so W/S would look like they do nothing.")]
         [Range(20f, 100f)]
         [SerializeField] float flyFieldOfView = 60f;
+        [Tooltip("Player that takes over this camera in First Person mode.")]
+        [SerializeField] FirstPersonLook firstPersonLook;
         [Tooltip("Input System binding path for the key that cycles to the next mode.")]
         [SerializeField] string cycleKeyBinding = "<Keyboard>/f1";
 
@@ -72,6 +76,7 @@ namespace Vice
 
         void OnEnable()
         {
+            GameSettings.Current.Changed += OnSettingChanged;
             ApplyMode(defaultMode);
             cycleAction.Enable();
         }
@@ -79,10 +84,12 @@ namespace Vice
         void OnDisable()
         {
             cycleAction.Disable();
+            GameSettings.Current.Changed -= OnSettingChanged;
 
             // Put the scene back the way it was, so removing this component leaves no trace.
             if (flyCamera != null) flyCamera.enabled = false;
             if (isoCamera != null) isoCamera.enabled = false;
+            if (firstPersonLook != null) firstPersonLook.enabled = false;
             RestoreProjection();
             if (brain != null) brain.enabled = true;
         }
@@ -97,10 +104,18 @@ namespace Vice
 
         void OnCyclePerformed(InputAction.CallbackContext _) => CycleMode();
 
+        void OnSettingChanged(string setting)
+        {
+            // applied live, so dragging the slider in the pause menu shows the new FOV behind it
+            if (setting != nameof(GameSettings.FieldOfView) || Current != CameraMode.FirstPerson) return;
+            cam.fieldOfView = GameSettings.Current.FieldOfView;
+        }
+
         /// <summary>Switch to the next mode in the rotation.</summary>
         public void CycleMode()
         {
-            SetMode(Current == CameraMode.Fly ? CameraMode.Isometric : CameraMode.Fly);
+            int modeCount = Enum.GetValues(typeof(CameraMode)).Length;
+            SetMode((CameraMode)(((int)Current + 1) % modeCount));
         }
 
         public void SetMode(CameraMode mode)
@@ -117,6 +132,7 @@ namespace Vice
             // control back to Cinemachine, which would otherwise steal a frame on the way out of Fly.
             if (flyCamera != null) flyCamera.enabled = false;
             if (isoCamera != null) isoCamera.enabled = false;
+            if (firstPersonLook != null) firstPersonLook.enabled = false;
             if (brain != null) brain.enabled = false;
 
             ApplyProjection(mode);
@@ -129,6 +145,13 @@ namespace Vice
                 case CameraMode.Isometric:
                     if (isoCamera != null) isoCamera.enabled = true;
                     break;
+                case CameraMode.FirstPerson:
+                    if (firstPersonLook != null)
+                    {
+                        firstPersonLook.View = transform;
+                        firstPersonLook.enabled = true;
+                    }
+                    break;
             }
 
             ModeChanged?.Invoke(mode);
@@ -138,11 +161,11 @@ namespace Vice
         {
             if (cam == null) return;
 
-            if (mode == CameraMode.Fly)
+            if (mode != CameraMode.Isometric)
             {
                 CacheProjection();
                 cam.orthographic = false;
-                cam.fieldOfView = flyFieldOfView;
+                cam.fieldOfView = mode == CameraMode.FirstPerson ? GameSettings.Current.FieldOfView : flyFieldOfView;
                 return;
             }
 
