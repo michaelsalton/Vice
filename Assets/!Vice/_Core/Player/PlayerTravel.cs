@@ -33,20 +33,26 @@ namespace Vice
             Finish();
         }
 
-        public void Travel(Vector3 position, Quaternion rotation)
+        public void Travel(Vector3 position, Quaternion rotation) => Travel(null, () => new Pose(position, rotation));
+
+        // the destination is resolved after whileBlack finishes, since it may live in a scene that isn't loaded yet
+        public void Travel(IEnumerator whileBlack, Func<Pose?> findDestination)
         {
             if (IsTraveling) return;
-            StartCoroutine(TravelRoutine(position, rotation));
+            StartCoroutine(TravelRoutine(whileBlack, findDestination));
         }
 
-        IEnumerator TravelRoutine(Vector3 position, Quaternion rotation)
+        IEnumerator TravelRoutine(IEnumerator whileBlack, Func<Pose?> findDestination)
         {
             IsTraveling = true;
             motorWasEnabled = motor.enabled;
             // frozen so you can't walk away from the door while the screen goes dark
             motor.enabled = false;
             yield return Fade(0f, 1f);
-            motor.Teleport(position, rotation);
+            // runs to completion as a nested coroutine, hidden behind the black
+            if (whileBlack != null) yield return whileBlack;
+            Pose? destination = findDestination?.Invoke();
+            if (destination.HasValue) motor.Teleport(destination.Value.position, destination.Value.rotation);
             Arrived?.Invoke();
             // scaled time, so pausing during a transition freezes it instead of finishing behind the menu
             yield return new WaitForSeconds(holdDuration);

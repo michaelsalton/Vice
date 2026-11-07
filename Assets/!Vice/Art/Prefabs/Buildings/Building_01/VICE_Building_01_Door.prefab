@@ -149,6 +149,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Vice.Door
   destination: {fileID: 1657179218254027202}
   prompt: Enter
+  targetScene: HotelLobby
+  spawnId: hotel_lobby
 --- !u!65 &6301793113262547439
 BoxCollider:
   m_ObjectHideFlags: 0
