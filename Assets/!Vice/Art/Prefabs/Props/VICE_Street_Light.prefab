@@ -176,17 +176,21 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
+      propertyPath: m_ForceMeshLod
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 3720f64dec12958478e1f151440afa63, type: 2}
     - target: {fileID: -7511558181221131132, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: 95782c4e1bc586744963f07dfca630e1, type: 2}
+      objectReference: {fileID: 2100000, guid: 39295499d72335447bc0c624b82da47c, type: 2}
     - target: {fileID: -7511558181221131132, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
       propertyPath: 'm_Materials.Array.data[2]'
       value: 
-      objectReference: {fileID: 2100000, guid: 95782c4e1bc586744963f07dfca630e1, type: 2}
+      objectReference: {fileID: 2100000, guid: b89f8a1a01b102841830f80ff92c6b49, type: 2}
     - target: {fileID: 919132149155446097, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
       propertyPath: m_Name
       value: VICE_Street_Light
@@ -197,10 +201,39 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4486599865558124564}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -308391119106662786}
   m_SourcePrefab: {fileID: 100100000, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
 --- !u!4 &7353999552115240344 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
   m_PrefabInstance: {fileID: 7026775250331798131}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &7873830424408340258 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: fc0b0083b342b874fac12a77083742fc, type: 3}
+  m_PrefabInstance: {fileID: 7026775250331798131}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &-308391119106662786
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7873830424408340258}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.3011603, y: 2.6792564, z: 0.30116034}
+  m_Center: {x: -0.000000014901161, y: 1.3396282, z: 0.00000014156103}

@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2891414281190139396}
+  - component: {fileID: -619895871612292857}
   m_Layer: 0
   m_Name: VICE_Car
   m_TagString: Untagged
@@ -40,6 +41,27 @@ Transform:
   - {fileID: 3155856329926665830}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &-619895871612292857
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415696859102495869}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &856551904122967878
 GameObject:
   m_ObjectHideFlags: 0
@@ -571,14 +593,14 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 43fce307f5c8ec44c9df998923b72860, type: 2}
-  - {fileID: 2100000, guid: 43fce307f5c8ec44c9df998923b72860, type: 2}
+  - {fileID: 2100000, guid: 7a9b5eb3ecdfedf47a4c0b9a8e2bba06, type: 2}
+  - {fileID: 2100000, guid: 7a9b5eb3ecdfedf47a4c0b9a8e2bba06, type: 2}
   - {fileID: 8992934318045909824, guid: f75605509ec98b84d82d0752b8abf146, type: 3}
   - {fileID: 2100000, guid: 093353bb38eebd348986ac8c4eaa7372, type: 2}
   - {fileID: -2790856370823296901, guid: f75605509ec98b84d82d0752b8abf146, type: 3}
   - {fileID: 4520948234769217161, guid: f75605509ec98b84d82d0752b8abf146, type: 3}
   - {fileID: -1598722958210515638, guid: f75605509ec98b84d82d0752b8abf146, type: 3}
-  - {fileID: 2100000, guid: 43fce307f5c8ec44c9df998923b72860, type: 2}
+  - {fileID: 2100000, guid: 7a9b5eb3ecdfedf47a4c0b9a8e2bba06, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

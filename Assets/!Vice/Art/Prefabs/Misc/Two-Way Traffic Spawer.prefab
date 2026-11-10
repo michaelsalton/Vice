@@ -45,13 +45,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Saga.TrafficSpawner
   carPrefabs:
-  - {fileID: 3520917458605199431, guid: 36e77225c0dc7524c90fd06d599ec175, type: 3}
-  - {fileID: 1947584492351490531, guid: 607703455f66e9c40826dd825cbbf7ed, type: 3}
-  - {fileID: 8782240588907550604, guid: 1bbc30b6493d7cd45949512bede7cf57, type: 3}
   - {fileID: 415696859102495869, guid: 47bb8bd8ceafe814a938bb77070ad3e2, type: 3}
-  minInterval: 5
+  minInterval: 2
   maxInterval: 12
-  speed: 48
+  speed: 24
   laneLength: 150
 --- !u!1 &6730692561963764008
 GameObject:
@@ -131,11 +128,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Saga.TrafficSpawner
   carPrefabs:
-  - {fileID: 3520917458605199431, guid: 36e77225c0dc7524c90fd06d599ec175, type: 3}
-  - {fileID: 1947584492351490531, guid: 607703455f66e9c40826dd825cbbf7ed, type: 3}
-  - {fileID: 8782240588907550604, guid: 1bbc30b6493d7cd45949512bede7cf57, type: 3}
   - {fileID: 415696859102495869, guid: 47bb8bd8ceafe814a938bb77070ad3e2, type: 3}
-  minInterval: 5
+  minInterval: 2
   maxInterval: 12
-  speed: 48
+  speed: 24
   laneLength: 150

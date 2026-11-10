@@ -1,0 +1,685 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5533145295757982063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3034750000810277132}
+  - component: {fileID: 4006074986359969024}
+  m_Layer: 0
+  m_Name: Lamp_Post_Line
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3034750000810277132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5533145295757982063}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.7, y: 0, z: -67.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5174254041057125799}
+  - {fileID: 6743319214539060953}
+  - {fileID: 8309124819109329058}
+  - {fileID: 3939684897486797112}
+  - {fileID: 7751469921177812843}
+  - {fileID: 5585895960861961722}
+  - {fileID: 5444837675811790594}
+  - {fileID: 5404307379395825931}
+  - {fileID: 5109313963477884521}
+  - {fileID: 8101024148234432277}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4006074986359969024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5533145295757982063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853ea96d8d338e04b99b407652f01d84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Vice.World.LinePrefabSpawner
+  prefabs:
+  - {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  length: 135
+  count: 10
+  seed: 0
+  alongJitter: 0
+  sideJitter: 0
+  gizmoRadius: 0.5
+  spawnedSignature: 135|10|0|0|0|Assets/!Vice/Art/Prefabs/Props/VICE_Street_Light.prefab
+--- !u!1001 &980772558802014963
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &7751469921177812843 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 980772558802014963}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1531601413603415354
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &8309124819109329058 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 1531601413603415354}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1612914475921965709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 135
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &8101024148234432277 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 1612914475921965709}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2371508436060812273
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &5109313963477884521 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 2371508436060812273}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2431947114107045951
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &5174254041057125799 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 2431947114107045951}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3137796620616368226
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &5585895960861961722 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 3137796620616368226}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3238461195151015059
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 105
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &5404307379395825931 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 3238461195151015059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3278995073502098074
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &5444837675811790594 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 3278995073502098074}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4295223173837708097
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &6743319214539060953 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 4295223173837708097}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5810264929665422496
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3034750000810277132}
+    m_Modifications:
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873830424408340258, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+      propertyPath: m_Name
+      value: VICE_Street_Light
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+--- !u!4 &3939684897486797112 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7353999552115240344, guid: ca2cb3ad51289254bb0fc1a02465d72a, type: 3}
+  m_PrefabInstance: {fileID: 5810264929665422496}
+  m_PrefabAsset: {fileID: 0}
